@@ -6,21 +6,22 @@ export default class Header extends Component {
       <section id="about" className="s-about target-section">
         <div className="row">
           <div className="column large-3 tab-12">
-            <img className="s-about__pic" src="images/avatars/user-06.jpg" alt="" />
+            <img className="s-about__pic" src="images/avatars/Profile.jpg" alt="" />
           </div>
           <div className="column large-9 tab-12 s-about__content">
             <h3>About Me</h3>
             <p>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem 
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
-              quae ab illo inventore veritatis et quasi architecto beatae vitae 
-              dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit 
-              aspernatur aut odit aut fugit, sed quia consequuntur magni dolores 
-              eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-              qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, 
-              sed quia non numquam eius modi tempora incidunt ut labore et dolore 
-              magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis 
-              nostrum exercitationem ullam corporis suscipit laboriosam.
+              Hello my name is Dovydas I'm from Lithuania, 23 years old. I was working here in
+              norway for more than a year until I decided change my career from construction
+              worker to something than I would enjoy doing and all my life I was into computers
+              either gaming or fixing them I been working with computer for long time and I'm
+              passionate about it. So I found programming. So I decided get into this field and I
+              joined Le Wagon bootcamp where I learned web development skills. I never thought
+              office work could be interesting but when Im working with code I really get into it I
+              enjoy doing it learning new skills all the time and building something new. Currently Im
+              learning React my improving my skills farther I'm also interested in other in Js
+              frameworks. Despite my enjoyment with coding I also am very active person I love
+              working out, snowboarding and living healthy lifestyle.
             </p>
             <hr />
             <div className="row s-about__content-bottom">
@@ -28,10 +29,9 @@ export default class Header extends Component {
                 <h3>Contact Details</h3>
                 <p>
                   Dovydas Savickas <br />
-                  1600 Amphitheatre Parkway <br />
-                  Mountain View, CA 94043 US <br />
-                  <a href="tel:+1975432345">+197 543 2345</a> <br />
-                  <a href="mailto:#0">sayhello@ceevee.com</a>
+                  Oslo <br />
+                  <a href="tel:+1975432345">+47 46 27 3648</a> <br />
+                  <a href="mailto:#0">dovydas.savickas.dev@gmail.com.com</a>
                 </p>
               </div>
               <div className="column w-1000-stack">

@@ -12,8 +12,7 @@ export default class Header extends Component {
         <div className="row collapse block-large-1-4 block-medium-1-3 block-tab-1-2 block-500-stack folio-list">
           <div className="column folio-item">
             <a href="#modal-01" className="folio-item__thumb">
-              <img src="images/portfolio/droplet.jpg" srcSet="images/portfolio/droplet.jpg 1x, 
-                                 images/portfolio/droplet@2x.jpg 2x" alt="" />
+              <img src="images/portfolio/gallery/letsplay.png" alt="" />
             </a>
           </div> {/* end folio-item */}
           <div className="column folio-item">
@@ -63,9 +62,9 @@ export default class Header extends Component {
         =========================================================== */}
         <div id="modal-01" hidden>
           <div className="modal-popup">
-            <img src="images/portfolio/gallery/g-droplet.jpg" alt="" />
+            <img src="images/portfolio/gallery/letsplay.jpg" alt="" />
             <div className="modal-popup__desc">
-              <h5>Droplet</h5>
+              <h5>letsplay</h5>
               <p>Odio soluta enim quos sit asperiores rerum rerum repudiandae cum. Vel voluptatem alias qui assumenda iure et expedita voluptatem. Ratione officiis quae.</p>
               <ul className="modal-popup__cat">
                 <li>Branding</li>

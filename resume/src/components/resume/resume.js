@@ -6,82 +6,22 @@ export default class Resume extends Component {
       <section id="resume" className="s-resume target-section">
         <div className="row s-resume__section">
           <div className="column large-3 tab-12">
-            <h3 className="section-header-allcaps">Career</h3>
-          </div>
-          <div className="column large-9 tab-12">
-            <div className="resume-block">
-              <div className="resume-block__header">
-                <h4 className="h3">Dropbox</h4>
-                <p className="resume-block__header-meta">
-                  <span>Product Designer</span> 
-                  <span className="resume-block__header-date">
-                    August 2019 - Present
-                  </span>
-                </p>
-              </div>
-              <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore 
-                vero quidem nobis maxime dolorem aliquam quisquam eum ipsum amet. Vitae 
-                aut atque fuga dolorem. Vel voluptatibus fugiat nam. Impedit aperiam 
-                nesciunt facilis! Porro architecto dicta inventore tempora ratione quia odio.
-              </p>
-            </div> {/* end resume-block */}
-            <div className="resume-block">
-              <div className="resume-block__header">
-                <h4 className="h3">Facebook</h4>
-                <p className="resume-block__header-meta">
-                  <span>UI/UX Designer</span> 
-                  <span className="resume-block__header-date">
-                    August 2016 - July 2019
-                  </span>
-                </p>
-              </div>
-              <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore 
-                vero quidem nobis maxime dolorem aliquam quisquam eum ipsum amet. Vitae 
-                aut atque fuga dolorem. Vel voluptatibus fugiat nam. Impedit aperiam 
-                nesciunt facilis! Porro architecto dicta inventore tempora ratione quia odio.
-              </p>
-            </div> {/* end resume-block */}
-          </div>
-        </div> {/* s-resume__section */}
-        <div className="row s-resume__section">
-          <div className="column large-3 tab-12">
             <h3 className="section-header-allcaps">Education</h3>
           </div>
           <div className="column large-9 tab-12">
             <div className="resume-block">
               <div className="resume-block__header">
-                <h4 className="h3">University of Life</h4>
+                <h4 className="h3">Le Wagon bootcamp</h4>
                 <p className="resume-block__header-meta">
-                  <span>Master in Graphic Design</span> 
+                  <span>Web Development course</span> 
                   <span className="resume-block__header-date">
-                    April 2015
+                    2020 October 20
                   </span>
                 </p>
               </div>
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore 
-                vero quidem nobis maxime dolorem aliquam quisquam eum ipsum amet. Vitae 
-                aut atque fuga dolorem. Vel voluptatibus fugiat nam. Impedit aperiam 
-                nesciunt facilis! Porro architecto dicta inventore tempora ratione quia odio.
-              </p>
-            </div> {/* end resume-block */}
-            <div className="resume-block">
-              <div className="resume-block__header">
-                <h4 className="h3">School of Cool Designers</h4>
-                <p className="resume-block__header-meta">
-                  <span>B.A. Degree in Graphic Design</span> 
-                  <span className="resume-block__header-date">
-                    August 2012
-                  </span>
-                </p>
-              </div>
-              <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore 
-                vero quidem nobis maxime dolorem aliquam quisquam eum ipsum amet. Vitae 
-                aut atque fuga dolorem. Vel voluptatibus fugiat nam. Impedit aperiam 
-                nesciunt facilis! Porro architecto dicta inventore tempora ratione quia odio.
+                After finishing Le Wagon bootcamp, I became developer who was able to build fully functioning
+                ruby on rails web applications. I gain confidence and skills required to do the job.
               </p>
             </div> {/* end resume-block */}
           </div>
@@ -93,35 +33,36 @@ export default class Resume extends Component {
           <div className="column large-9 tab-12">
             <div className="resume-block">
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore 
-                vero quidem nobis maxime dolorem aliquam quisquam eum ipsum amet. Vitae 
-                aut atque fuga dolorem. Vel voluptatibus fugiat nam. Impedit aperiam 
-                nesciunt facilis! Porro architecto dicta inventore tempora ratione quia odio.
+                These are my skills I have right now at this moment but every day I gain more experience with them.
               </p>
               <ul className="skill-bars-fat">
                 <li>
-                  <div className="progress percent85" />
+                  <div className="progress percent75" />
                   <strong>HTML</strong>
                 </li>
                 <li>
-                  <div className="progress percent85" />
+                  <div className="progress percent75" />
                   <strong>CSS</strong>
                 </li>
                 <li>
-                  <div className="progress percent65" />
+                  <div className="progress percent35" />
                   <strong>Javascript</strong>
                 </li>
                 <li>
-                  <div className="progress percent90" />
+                  <div className="progress percent75" />
                   <strong>Figma</strong>
                 </li>
                 <li>
-                  <div className="progress percent75" />
-                  <strong>Illustrator</strong>
+                  <div className="progress percent80" />
+                  <strong>Ruby on Rails</strong>
                 </li>
                 <li>
-                  <div className="progress percent60" />
-                  <strong>Photoshop</strong>
+                  <div className="progress percent80" />
+                  <strong>Ruby</strong>
+                </li>
+                <li>
+                  <div className="progress percent30" />
+                  <strong>React</strong>
                 </li>
               </ul>
             </div> {/* end resume-block */}

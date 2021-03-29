@@ -7,16 +7,14 @@ export default class Header extends Component {
         <div className="row">
           <div className="column large-4 medium-6 w-1000-stack s-footer__social-block">
             <ul className="s-footer__social">
-              <li><a href="#0"><i className="fab fa-facebook-f" aria-hidden="true" /></a></li>
-              <li><a href="#0"><i className="fab fa-twitter" aria-hidden="true" /></a></li>
-              <li><a href="#0"><i className="fab fa-instagram" aria-hidden="true" /></a></li>
-              <li><a href="#0"><i className="fab fa-dribbble" aria-hidden="true" /></a></li>
-              <li><a href="#0"><i className="fab fa-linkedin-in" aria-hidden="true" /></a></li>
+              <li><a href="https://www.facebook.com/dovydas.savickas.37/"><i className="fab fa-facebook-f" aria-hidden="true" /></a></li>
+              <li><a href="https://www.instagram.com/Dovydas.Savickas.Dev/"><i className="fab fa-instagram" aria-hidden="true" /></a></li>
+              <li><a href="https://github.com/dagas19"><i className="fab fa-github" aria-hidden="true" /></a></li>
+              <li><a href="https://www.linkedin.com/in/dovydas-savickas-5a47571a8/"><i className="fab fa-linkedin-in" aria-hidden="true" /></a></li>
             </ul>
           </div>
           <div className="column large-7 medium-6 w-1000-stack ss-copyright">
-            <span>© Copyright Ceevee 2021</span> 
-            <span>Design by <a href="https://www.styleshout.com/">StyleShout</a></span>
+            <span>© Copyright Dovydas.Savickas.Dev 2021</span> 
           </div>
         </div>
         <div className="ss-go-top">

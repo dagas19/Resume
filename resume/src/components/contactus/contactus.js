@@ -24,7 +24,7 @@ export default class Header extends Component {
                     Email
                   </h5>
                   <p className="contact-block__content">
-                    <a className="mailtoui" href="mailto:sayhello@ceevee.com">sayhello@ceevee.com</a>
+                    <a className="mailtoui" href="mailto:Dovydas.Savickas.Dev@gmail.com">Dovydas.Savickas.Dev@gmail.com</a>
                   </p>
                 </div> {/* end contact-block */}
               </div>
@@ -39,7 +39,7 @@ export default class Header extends Component {
                 </div> {/* end contact-block */}
               </div>
               <div className="column large-12">
-                <a href="mailto:sayhello@ceevee.com" className="mailtoui btn btn--primary h-full-width">Let's Talk</a>
+                <a href="mailto:Dovydas.Savickas.Dev@gmail.com" className="mailtoui btn btn--primary h-full-width">Let's Talk</a>
               </div>
             </div> {/* end contact-infos */}
           </div>

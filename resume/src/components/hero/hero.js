@@ -8,19 +8,16 @@ export default class Header extends Component {
           <div className="row s-hero__content">
             <div className="column">
               <div className="s-hero__content-about">
-                <h1>I'm Jonathan Doe.</h1>
+                <h1>I'm Dovydas Savickas</h1>
                 <h3>
-                  I'm a Manila based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and
-                  effective visual identities for companies of all sizes around the globe. Let's <a className="smoothscroll" href="#about">start scrolling</a>
-                  and learn more <a className="smoothscroll" href="#about">about me</a>.
+                  I am a Oslo based full stack developer. I am able to create really cool looking, 
+                  web applications to anyone who needs it. Scroll down and find out more about me. <a className="smoothscroll" href="#about">about me</a>.
                 </h3>
                 <div className="s-hero__content-social">
-                  <a href="#0"><i className="fab fa-facebook-square" aria-hidden="true" /></a>
-                  <a href="#0"><i className="fab fa-twitter" aria-hidden="true" /></a>
-                  <a href="#0"><i className="fab fa-instagram" aria-hidden="true" /></a>
-                  <a href="#0"><i className="fab fa-dribbble" aria-hidden="true" /></a>
-                  <a href="#0"><i className="fab fa-behance" aria-hidden="true" /></a>
-                  <a href="#0"><i className="fab fa-linkedin" aria-hidden="true" /></a>
+                  <a href="https://www.facebook.com/dovydas.savickas.37/"><i className="fab fa-facebook-square" aria-hidden="true" /></a>
+                  <a href="https://github.com/dagas19"><i className="fab fa-github" aria-hidden="true" /></a>
+                  <a href="https://www.instagram.com/Dovydas.Savickas.Dev/"><i className="fab fa-instagram" aria-hidden="true" /></a>
+                  <a href="https://www.linkedin.com/in/dovydas-savickas-5a47571a8/"><i className="fab fa-linkedin" aria-hidden="true" /></a>
                 </div>
               </div> {/* end s-hero__content-about */}
             </div>
