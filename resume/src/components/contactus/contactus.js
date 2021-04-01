@@ -6,7 +6,7 @@ export default class Header extends Component {
       <section id="contact" className="s-contact target-section">
         <div className="row s-contact__header">
           <div className="column large-12">
-            <h3 className="section-header-allcaps">Say Hello</h3>
+            <h3 className="section-header-allcaps">Message Me</h3>
           </div>
         </div>
         <div className="row s-contact__content">
@@ -34,7 +34,7 @@ export default class Header extends Component {
                     Phone
                   </h5>
                   <p className="contact-block__content">
-                    <a href="tel:+1975432345">+197 543 2345</a>
+                    <a href="tel:+1975432345">+47 46 27 3648</a>
                   </p>
                 </div> {/* end contact-block */}
               </div>
